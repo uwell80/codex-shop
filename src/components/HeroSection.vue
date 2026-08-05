@@ -2,9 +2,9 @@
   <section class="hero">
     <div class="hero-copy">
       <p class="eyebrow"><span></span> SICHUAN HOT POT · HANGZHOU</p>
-      <h1>围炉沸腾<br /><em>万事皆可涮</em></h1>
+      <h1>一锅红汤，<br /><em>煮沸人间烟火</em></h1>
       <p class="intro">
-        一口牛油红汤，满桌烟火人间。<br />把山城的热辣与爽快，煮给你吃。
+        牛油滚烫，七上八下，<br />山城的辣，煮进杭州的夜。趁热，涮出痛快。
       </p>
       <a class="button button-dark" href="#menu">开涮了 <b>↓</b></a>
     </div>
