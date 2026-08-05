@@ -56,7 +56,7 @@ const dishes = [
   {
     no: 'SIGNATURE / 03',
     name: '手打虾滑 · 蟹籽福袋',
-    price: '¥ 42',
+    price: '¥ 52',
     img: 'https://jokia.com.sg/wp-content/uploads/2024/01/prawn-paste-ball.jpg',
     alt: '手打虾滑',
     featured: false,
